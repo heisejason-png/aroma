@@ -82,3 +82,4 @@ This watches the filesystem and builds what's needed when you change something.
   [2]: http://love2d.org
   [3]: http://leafo.net/aroma/tutorial.html
 
+Created by Jason Scott Heise
